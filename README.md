@@ -1,16 +1,110 @@
-### Hi there 👋
+# Hello, I'm Sheyla!
 
-<!--
-**slls-sheyla/slls-sheyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Java Developer
+[![Linkedin: Sheyla-Limaa](https://img.shields.io/badge/-Sheyla%20Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sheyla-lima-b4164b1b0)](https://www.linkedin.com/in/sheyla-lima-b4164b1b0/)
+[![GitHub: @slls-sheyla](https://img.shields.io/github/followers/slls-sheyla?label=follow&style=social)](https://github.com/slls-sheyla)
+[![Gmail: Sheyla](https://img.shields.io/badge/Gmail-Sheyla-red)](mailto:slls.sheyla@gmail.com)
+[![Stack Overflow: Sheyla](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/12875404)](https://stackoverflow.com/users/17224774/sheyla-lima)
 
-Here are some ideas to get you started:
+>I am a computer science student who likes to learn and study new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+* :computer: I really enjoy programming.
+
+## Technologies
+<div align="center"> 
+  <a href="https://docs.oracle.com/javase/7/docs/api/java/lang/package-summary.html/">
+    <img  
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-original.svg"
+      alt="Java"
+      width="10%"
+      height="10%"
+    />
+  </a>
+
+  <a href="https://html.com/">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original-wordmark.svg"
+      alt="HTML 5"
+      width="10%"
+      height="10%"
+    />
+  </a>
+
+<a href="https://www.w3schools.com/css/">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg"
+      alt="CSS 3"
+      width="10%"
+      height="10%"
+    />
+  </a>
+
+  
+  <a href="https://git-scm.com/">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original-wordmark.svg"
+      alt="Git"
+      width="10%"
+      height="10%"
+    />
+  </a>
+  
+  
+</div>
+ 
+ ## My hobbies
+
+```java
+import java.util.Scanner;
+
+public class AboutMe {
+    
+    public static void main(String args[]) {
+      
+      Scanner in = new Scanner(System.in);
+      
+      System.out.println(("Do you want to know my hobbies?"));
+      String answer = in.nextLine();
+      
+      if(answer.equalsIgnoreCase("Yes")) {
+            
+            System.out.println("1 - To sing.");
+            System.out.println("2 - To learn others languages.");
+            System.out.println("3 - To know others cultures.");
+            System.out.println("4 - To watch my favorites youtubers.");
+            System.out.println("5 - Listen to music");
+          
+      } else {
+          
+          System.out.println("No problem, see ya!");
+          
+      }
+      
+    }
+    
+}
+```
+
+<div align="center">
+  <a>
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=slls-sheyla&count_private=true&show_icons=true&hide=issues&theme=dark&include_all_commits=true&custom_title=Sheyla Status"
+    />
+  </a>
+  
+  <a>
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=slls-sheyla&&layout=compact&theme=dark"
+    />
+  </a>
+</div>
+
+## Skills
+- **Languages**: Java, C#, Kotlin, SQL
+- **Web technologies**: HTML5, CSS3
+- **Databases**: Oracle SQL
+- **Misc**: Git
+

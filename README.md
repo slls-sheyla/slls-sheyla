@@ -69,11 +69,11 @@ public class AboutMe {
       
       if(answer.equalsIgnoreCase("Yes")) {
             
-            System.out.println("1 - To sing.");
-            System.out.println("2 - To learn others languages.");
-            System.out.println("3 - To know others cultures.");
-            System.out.println("4 - To watch my favorites youtubers.");
-            System.out.println("5 - Listen to music");
+            System.out.println("1 - To sing");
+            System.out.println("2 - To learn other languages");
+            System.out.println("3 - To know other cultures");
+            System.out.println("4 - To watch my favorite youtubers");
+            System.out.println("5 - To listen to music");
           
       } else {
           

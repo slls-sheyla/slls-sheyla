@@ -103,7 +103,7 @@ public class AboutMe {
 </div>
 
 ## Skills
-- **Languages**: Java, C#, Kotlin, SQL
+- **Languages**: Java, C#, JavaScript, SQL
 - **Web technologies**: HTML5, CSS3
 - **Databases**: Oracle SQL
 - **Misc**: Git

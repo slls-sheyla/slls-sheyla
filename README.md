@@ -31,6 +31,15 @@
     />
   </a>
   
+  <a href="https://www.javascript.com/">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg"
+      alt="Javascript"
+      width="10%"
+      height="10%"
+    />
+  </a>
+  
   <a href="https://html.com/">
     <img 
       src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original-wordmark.svg"

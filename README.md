@@ -109,7 +109,10 @@ public class AboutMe {
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api?username=slls-sheyla&count_private=true&show_icons=true&hide=issues&theme=outrun&include_all_commits=true&custom_title=Sheyla's Github Stats"
-    /><img
+    />
+  </a>
+  <a>
+    <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=slls-sheyla&&layout=compact&theme=outrun"
     />

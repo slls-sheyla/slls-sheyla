@@ -108,14 +108,12 @@ public class AboutMe {
   <a>
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=slls-sheyla&count_private=true&show_icons=true&hide=issues&theme=dark&include_all_commits=true&custom_title=Sheyla Status"
+      src="https://github-readme-stats.vercel.app/api?username=slls-sheyla&count_private=true&show_icons=true&hide=issues&theme=outrun&include_all_commits=true&custom_title=Sheyla's Github Stats"
     />
-  </a>
-  
-  <a>
+
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=slls-sheyla&&layout=compact&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=slls-sheyla&&layout=compact&theme=outrun"
     />
   </a>
 </div>

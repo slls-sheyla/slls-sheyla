@@ -13,70 +13,74 @@
 
 ## Technologies
 <div align="center"> 
-  <a href="https://docs.oracle.com/javase/7/docs/api/java/lang/package-summary.html/">
-    <img  
+  <img  
       src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-original.svg"
       alt="Java"
       width="10%"
       height="10%"
     />
-  </a>
-
-  <a href="https://nodejs.org/en/">
     <img 
       src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg"
       alt="Node.js"
       width="10%"
       height="10%"
     />
-  </a>
-  
-  <a href="https://www.javascript.com/">
     <img 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
       alt="Javascript"
       width="10%"
       height="10%"
     />
-  </a>
-  
-  <a href="https://html.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" 
+    alt="Oracle"
+    width="10%"
+    height="10%"
+    />
+    <img  
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"
+      alt="CSharp"
+      width="10%"
+      height="10%"
+    />
     <img 
       src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original-wordmark.svg"
       alt="HTML 5"
       width="10%"
       height="10%"
     />
-  </a>
-
-<a href="https://www.w3schools.com/css/">
     <img 
       src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg"
       alt="CSS 3"
       width="10%"
       height="10%"
     />
-  </a>
-
-  
-  <a href="https://git-scm.com/">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original-wordmark.svg"
-      alt="Git"
-      width="10%"
-      height="10%"
-    />
-  </a>
-  
-  <a href="https://code.visualstudio.com/">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
       alt="Visual Studio Code"
       width="10%"
       height="10%"
     />
-  </a>
-  
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original-wordmark.svg"
+      alt="Git"
+      width="10%"
+      height="10%"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    alt="GitHub"
+    width="10%"
+    height="10%"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" 
+    alt="Ubuntu"
+    width="10%"
+    height="10%"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"
+    alt="Windows"
+    width="10%"
+    height="10%"
+    />
   
   
 </div>
